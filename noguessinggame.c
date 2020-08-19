@@ -42,3 +42,5 @@ int main(void){
     printf("The correct answer is %d.\n\n", randomNo);
     printf("Hari Kollo api giya!!!\n");
     end(); 
+	return 0;	
+}
